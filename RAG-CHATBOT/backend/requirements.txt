@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+httpx
+motor
+numpy
+pypdf
+boto3
+pinecone
+tiktoken
+python-multipart
+pytesseract
+pillow
+h2
